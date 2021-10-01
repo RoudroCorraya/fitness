@@ -26,7 +26,7 @@
     }
     #banner_part .banner_text{
         margin-left: 5px;
-        width: 320px;
+        width: 576px;
     }
     #banner_part .banner_text p{
         width: 300px;
@@ -34,5 +34,8 @@
     #banner_part .banner_text h1{
         font-size: 30px;
         margin-top: 35px;
+        width: 290px;
+        
+        margin-right: 110px;
     }
 }
