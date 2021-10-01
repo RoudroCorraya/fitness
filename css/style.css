@@ -1,0 +1,94 @@
+/*====================common Css start================*/
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+    display: inline-block;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    
+}
+h1,h2,h3,h4,h5,h6,p{
+    display: inline-block;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/*====================common Css start================*/
+
+/* ===================menu_bar start================= */
+.navbar-light .navbar-nav .nav-link{
+    color: #262626!important;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+#menu_bar nav ol{
+    margin-top: 5px;
+}
+
+#menu_bar nav ol li a{
+    text-decoration: none;
+    color: #262626;
+    
+}
+#menu_bar nav ol li a i{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid #5EB6E1;
+    margin-right: 20px;
+    color: #5EB6E1;
+}
+#menu_bar nav ol li span{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+
+/* ===================menu_bar end================= */
+
+/* ===================banner_part start================= */
+#banner_part{
+    width: 100%;
+    background: url(../images/banner_bg.png)no-repeat center;
+    background-size: cover;
+    padding: 222px 0;
+    
+}
+#banner_part .banner_text{
+    width: 100%;
+    margin-left: 100px;
+    
+}
+#banner_part .banner_text p{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+#banner_part .banner_text h1{
+    color: #FFFFFF;
+    font-size: 44px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+#banner_part .banner_text a{
+    padding: 20px 50px;
+    background: #5EB6E1;
+    border-radius: 10px;
+    color: #000000;
+    text-decoration: none;
+    margin-top: 40px;
+    
+}
+/* ===================banner_part end================= */

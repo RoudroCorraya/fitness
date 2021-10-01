@@ -1,0 +1,38 @@
+@media (min-width: 320px) and (max-width: 575px){
+    /*======banner_part======*/
+    #banner_part{
+        width: 320px;
+        padding: 50px 0;
+        
+    }
+    #banner_part .banner_text{
+        margin-left: 5px;
+        width: 320px;
+    }
+    #banner_part .banner_text p{
+        width: 300px;
+    }
+    #banner_part .banner_text h1{
+        font-size: 30px;
+        margin-top: 35px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    /*======banner_part======*/
+    #banner_part{
+        width: 576px;
+        padding: 50px 0;
+        
+    }
+    #banner_part .banner_text{
+        margin-left: 5px;
+        width: 320px;
+    }
+    #banner_part .banner_text p{
+        width: 300px;
+    }
+    #banner_part .banner_text h1{
+        font-size: 30px;
+        margin-top: 35px;
+    }
+}
